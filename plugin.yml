@@ -1,0 +1,17 @@
+name: FreeItem
+author: HumYaiJang
+main: FreeItem\Main
+version: 2.5.0
+api: [3.0.0-ALPHA12]
+description: get item free from server
+commands:
+ free:
+  usage: /free
+  description: get item free from server
+  
+  #UpDate
+  #1. Rename item free
+  #2. fixbug
+  #3.New Function title
+  #subscribe channel SASDERGAMER
+  #By HumYaiJang or SASDERGAMER
